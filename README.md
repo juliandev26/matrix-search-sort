@@ -25,7 +25,7 @@ Este proyecto implementa y analiza la eficiencia de distintos algoritmos de bús
 ## Instalación y Ejecución
 1. Clonar este repositorio:
    ```sh
-   [git clone https://github.com/usuario/proyecto-matriz.git](https://github.com/juliandev26/matrix-search-sort.git)
+   https://github.com/juliandev26/matrix-search-sort.git
 2. Compilar y ejecutar el programa:
    ```
    javac MatrixSearchSort.java
